@@ -6,7 +6,7 @@ imageFile = "sources/car-image.jpg"
 '''
 
 #Video Path
-videoFile = "sources/cars and pedestrians.mp4"
+videoFile = "sources/Cars_Pedestrians.mp4"
 
 # Pre-Trained car-image Classifier
 car_classifier_file = "car_detector.xml"
